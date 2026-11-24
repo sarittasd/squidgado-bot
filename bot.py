@@ -58,7 +58,7 @@ from collections import defaultdict, deque
 from telegram import ChatPermissions, InlineKeyboardButton, InlineKeyboardMarkup, Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes, MessageHandler, filters
 
-TOKEN = "TU_TOKEN_AQUI"
+TOKEN = "8841703241:AAFog3IQUzPKh51ZaJw8p5kWGL-Bb7XsByY"
 BOT_USERNAME = "squidgado_bot"
 BAD_DOMAINS = ("bit.ly", "tinyurl.com", "free-nitro", "claim-reward", "crypto-giveaway", "pornhub.com", "xvideos.com", "xnxx.com")
 
